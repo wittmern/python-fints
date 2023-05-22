@@ -1,4 +1,4 @@
 requests
 mt-940
-sepaxml==2.1.*
-bleach
+sepaxml==2.6.1
+bleach==6.0.0
